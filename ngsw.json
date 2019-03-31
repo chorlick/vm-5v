@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1554019085090,
+  "timestamp": 1554021894738,
   "index": "https://chorlick.github.io/vm-5v/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "https://chorlick.github.io/vm-5v/favicon.ico",
         "https://chorlick.github.io/vm-5v/index.html",
-        "https://chorlick.github.io/vm-5v/main.b2e9fea85abe1e9e0e61.js",
+        "https://chorlick.github.io/vm-5v/main.6ccdcab2a9856119221b.js",
         "https://chorlick.github.io/vm-5v/polyfills.0e60013d71f51b5cabf9.js",
         "https://chorlick.github.io/vm-5v/runtime.ec2944dd8b20ec099bf3.js",
         "https://chorlick.github.io/vm-5v/styles.336944a5227f5921dad6.css"
@@ -21,16 +21,20 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": ["https://chorlick.github.io/vm-5v/assets/ngx-rocket-logo.png"],
+      "urls": [
+        "https://chorlick.github.io/vm-5v/assets/ngx-rocket-logo.png",
+        "https://chorlick.github.io/vm-5v/assets/vm-logo.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "https://chorlick.github.io/vm-5v/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://chorlick.github.io/vm-5v/assets/vm-logo.png": "4a5b4ea87a97785ee985c06a0268ba1c4e248655",
     "https://chorlick.github.io/vm-5v/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "https://chorlick.github.io/vm-5v/index.html": "bf9f050d3b23795ab7399f17dcfbdacb38a9790f",
-    "https://chorlick.github.io/vm-5v/main.b2e9fea85abe1e9e0e61.js": "2b42836b07b47e9efe2b18898816ae5a7d7451f3",
+    "https://chorlick.github.io/vm-5v/index.html": "f3be59c08807231482294e941f5a81ab7a2f2a0a",
+    "https://chorlick.github.io/vm-5v/main.6ccdcab2a9856119221b.js": "74ea52333b06a3eed8f08b87c8f16d963fb44fc3",
     "https://chorlick.github.io/vm-5v/polyfills.0e60013d71f51b5cabf9.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "https://chorlick.github.io/vm-5v/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://chorlick.github.io/vm-5v/styles.336944a5227f5921dad6.css": "089ec5b8f091a18d99f233a77f9f49222b637293"
