@@ -1,0 +1,56 @@
+{
+  "configVersion": 1,
+  "timestamp": 1554019085090,
+  "index": "https://chorlick.github.io/vm-5v/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://chorlick.github.io/vm-5v/favicon.ico",
+        "https://chorlick.github.io/vm-5v/index.html",
+        "https://chorlick.github.io/vm-5v/main.b2e9fea85abe1e9e0e61.js",
+        "https://chorlick.github.io/vm-5v/polyfills.0e60013d71f51b5cabf9.js",
+        "https://chorlick.github.io/vm-5v/runtime.ec2944dd8b20ec099bf3.js",
+        "https://chorlick.github.io/vm-5v/styles.336944a5227f5921dad6.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": ["https://chorlick.github.io/vm-5v/assets/ngx-rocket-logo.png"],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://chorlick.github.io/vm-5v/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://chorlick.github.io/vm-5v/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://chorlick.github.io/vm-5v/index.html": "bf9f050d3b23795ab7399f17dcfbdacb38a9790f",
+    "https://chorlick.github.io/vm-5v/main.b2e9fea85abe1e9e0e61.js": "2b42836b07b47e9efe2b18898816ae5a7d7451f3",
+    "https://chorlick.github.io/vm-5v/polyfills.0e60013d71f51b5cabf9.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "https://chorlick.github.io/vm-5v/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://chorlick.github.io/vm-5v/styles.336944a5227f5921dad6.css": "089ec5b8f091a18d99f233a77f9f49222b637293"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
